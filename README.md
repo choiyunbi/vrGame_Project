@@ -1,4 +1,4 @@
-<div align="center"><h1>TPS Project_Unreal</h1></div>
+<div align="center"><h1>VR Game Project</h1></div>
 
 ### 프로젝트 소개
 
@@ -7,6 +7,6 @@
 
 오큘러스를 사용하여 움직이며 총을 쏠 수 있습니다.
 
-
+캡처 02.jpg
 
 
